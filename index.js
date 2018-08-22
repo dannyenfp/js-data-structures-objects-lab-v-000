@@ -1,5 +1,7 @@
 // Write your solution in this file!
 
+// WHY does this need to be a [] instead of a . 
+
 const driver = {}; 
 
 function updateDriverWithKeyAndValue(driver, key, value) {
